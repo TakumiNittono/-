@@ -1,0 +1,5 @@
+{
+  "name": "JST Timezone Converter",
+  "description": "A simple and accurate tool to convert US Eastern Time (EDT/EST) to Japan Standard Time (JST), automatically handling Daylight Saving Time rules.",
+  "requestFramePermissions": []
+}
